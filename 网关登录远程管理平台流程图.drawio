@@ -33,7 +33,7 @@
           <mxGeometry x="299" y="100" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="319" y="1040" width="100" height="60" as="geometry" />
+          <mxGeometry x="314" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-2" target="MN7jsWoNgYW6COMokSLC-7">
           <mxGeometry relative="1" as="geometry">
@@ -131,11 +131,11 @@
         <mxCell id="MN7jsWoNgYW6COMokSLC-34" value="开启 FRP？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="299" y="670" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MN7jsWoNgYW6COMokSLC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-36" target="MN7jsWoNgYW6COMokSLC-52">
+        <mxCell id="MN7jsWoNgYW6COMokSLC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-36" target="MN7jsWoNgYW6COMokSLC-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-36" value="开启 FRP 功能" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="830" width="110" height="70" as="geometry" />
+          <mxGeometry x="309" y="800" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-34" target="MN7jsWoNgYW6COMokSLC-7">
           <mxGeometry relative="1" as="geometry">
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-52" value="开启成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="299" y="930" width="130" height="80" as="geometry" />
+          <mxGeometry x="299" y="910" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-52" target="MN7jsWoNgYW6COMokSLC-7">
           <mxGeometry relative="1" as="geometry" />
@@ -193,13 +193,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-56" value="失败信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="835" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-52" target="MN7jsWoNgYW6COMokSLC-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-58" value="远程管理页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="790" y="835" width="100" height="60" as="geometry" />
+          <mxGeometry x="800" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MN7jsWoNgYW6COMokSLC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-56" target="MN7jsWoNgYW6COMokSLC-58">
           <mxGeometry relative="1" as="geometry" />
