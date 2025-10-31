@@ -1,9 +1,209 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="yD-78iKWsWDVwUxhtzjX">
-    <mxGraphModel dx="1106" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MN7jsWoNgYW6COMokSLC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-1" target="MN7jsWoNgYW6COMokSLC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="-150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-2" target="MN7jsWoNgYW6COMokSLC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-5">
+          <mxGeometry x="-0.05" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-2" value="开启远程管理？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="-30" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-4" target="MN7jsWoNgYW6COMokSLC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-13">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-4" value="存在账户信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="100" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-2" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="10" />
+              <mxPoint x="40" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-8">
+          <mxGeometry x="0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-4" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="140" />
+              <mxPoint x="80" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-10">
+          <mxGeometry x="-0.5771" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-12" target="MN7jsWoNgYW6COMokSLC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-12" value="登录远程管理系统" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="240" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-17" target="MN7jsWoNgYW6COMokSLC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-17" value="延迟" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-21" target="MN7jsWoNgYW6COMokSLC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-28">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-21" value="请求成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-21" target="MN7jsWoNgYW6COMokSLC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-23">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-27" target="MN7jsWoNgYW6COMokSLC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-35">
+          <mxGeometry x="-0.0545" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-27" target="MN7jsWoNgYW6COMokSLC-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-27" value="登录成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-27" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="560" />
+              <mxPoint x="130" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-32">
+          <mxGeometry x="-0.4667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-34" target="MN7jsWoNgYW6COMokSLC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-37">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-34" value="开启 FRP？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-36" target="MN7jsWoNgYW6COMokSLC-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-36" value="开启 FRP 功能" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="830" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-34" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="710" />
+              <mxPoint x="180" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-49" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-40">
+          <mxGeometry x="-0.1754" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-41" value="存储响应信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="525" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-43" value="远程管理系统令牌" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-41" target="MN7jsWoNgYW6COMokSLC-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-45" value="FRP 配置信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-41" target="MN7jsWoNgYW6COMokSLC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-43" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="505" />
+              <mxPoint x="960" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-45" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="635" />
+              <mxPoint x="930" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-52" value="开启成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="930" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-52" target="MN7jsWoNgYW6COMokSLC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-55" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MN7jsWoNgYW6COMokSLC-54">
+          <mxGeometry x="-0.0772" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-56" value="失败信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="835" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-52" target="MN7jsWoNgYW6COMokSLC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-58" value="远程管理页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="790" y="835" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN7jsWoNgYW6COMokSLC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN7jsWoNgYW6COMokSLC-56" target="MN7jsWoNgYW6COMokSLC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
